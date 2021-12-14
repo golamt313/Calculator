@@ -1,4 +1,4 @@
-Calculator App built with ReactJS
+# Calculator App built with ReactJS
 
 Installation:
         
