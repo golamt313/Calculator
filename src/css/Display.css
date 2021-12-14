@@ -1,0 +1,13 @@
+.Display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: #3d3429;
+    height: 20%;
+}
+
+.Data {
+    margin-right: 10px;
+    color: #ffffff;
+    font-size: 6vw;
+}
